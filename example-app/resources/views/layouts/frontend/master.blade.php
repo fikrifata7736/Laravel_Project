@@ -42,7 +42,7 @@
           <a class="navbar-brand" href=""
             ><img
               src="assets\img\logo.png"
-              alt="DigitalArt Games Logo"
+              alt="Logo"
               style="width: 80px; height: 80px"
           /></a>
           <button
